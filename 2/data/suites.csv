@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Mar 30 00:42:08 GMT 2023","Thu Mar 30 00:42:08 GMT 2023","267","","com.shinkai.IssueNameTests","","com.shinkai.IssueNameTests","testIssueNameListener","Search issue in repo DiUS/java-faker of GitHub",""
+"broken","Thu Mar 30 00:42:03 GMT 2023","Thu Mar 30 00:42:07 GMT 2023","4108","","com.shinkai.IssueNameTests","","com.shinkai.IssueNameTests","testIssueNameAnnotatedSteps","Search issue in repo DiUS/java-faker of GitHub using annotated steps",""
+"broken","Thu Mar 30 00:42:07 GMT 2023","Thu Mar 30 00:42:08 GMT 2023","254","","com.shinkai.IssueNameTests","","com.shinkai.IssueNameTests","testIssueNameLambdaStep","Search issue in repo DiUS/java-faker of GitHub using lambda steps",""
